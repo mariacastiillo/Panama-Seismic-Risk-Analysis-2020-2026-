@@ -79,8 +79,10 @@ Correlating the volume of events with peak intensity to justify emergency budget
 **Infrastructure:** Prioritize structural audits for hospitals and bridges in the Chiriqui and Burica regions.
 
 **Policy:** Update the National Building Code to account for the high percentage of shallow-depth seismic risk.
+
+**Fiscal:** Maintain disaster relief budgets aligned with the high-activity baseline established in 2022.
+
 ---
 
 ## Author
 **María Castillo**
-**Fiscal:** Maintain disaster relief budgets aligned with the high-activity baseline established in 2022.
