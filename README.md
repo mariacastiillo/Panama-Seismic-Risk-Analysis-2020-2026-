@@ -6,7 +6,7 @@ This project analyzes seismic activity in Panama to provide data-driven insights
 
 ## 2. Tech Stack
 * **Data Source:** United States Geological Survey (USGS) API.
-* **Data Cleaning:** Excel (Regional delimiter transformation and feature selection).
+* **Data Cleaning:** Excel.
 * **Storage & Analysis:** Google BigQuery (SQL).
 * **Visualization:** Google Looker Studio.
 
@@ -79,5 +79,8 @@ Correlating the volume of events with peak intensity to justify emergency budget
 **Infrastructure:** Prioritize structural audits for hospitals and bridges in the Chiriqui and Burica regions.
 
 **Policy:** Update the National Building Code to account for the high percentage of shallow-depth seismic risk.
+---
 
+## Author
+**María Castillo**
 **Fiscal:** Maintain disaster relief budgets aligned with the high-activity baseline established in 2022.
