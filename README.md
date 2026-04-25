@@ -68,11 +68,12 @@ This chart identifies the locations with the highest recorded magnitudes. **Boca
 
 ### B. Structural Vulnerability (Depth Analysis)
 Almost all seismic activity is shallow, which directly impacts surface infrastructure and urban safety.
-![Vulnerability Pie](AQUÍ_ARRASRA_LA_IMAGEN_DEL_PASTEL_ROJO)
+![Vulnerability Pie](
+Structural_Vulnerability_gragh.png)
 
 ### C. Historical Activity Trends
 Correlating the volume of events with peak intensity to justify emergency budget allocations.
-![Annual Trends](AQUÍ_ARRASRA_LA_IMAGEN_DE_BARRAS_AZULES_Y_LINEA_ROJA)
+![Annual Trends](Historical_activity_trends_gragh.png)
 
 ## 5. Final Recommendations
 **Infrastructure:** Prioritize structural audits for hospitals and bridges in the Chiriqui and Burica regions.
