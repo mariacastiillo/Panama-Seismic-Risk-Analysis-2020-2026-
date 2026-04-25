@@ -64,7 +64,7 @@ ORDER BY event_year DESC;
 
 ### A. Geographical Risk (Hotspots)
 This chart identifies the locations with the highest recorded magnitudes. **Boca Chica** stands out as the highest-risk zone.
-![Top Hotspots](AQUÍ_ARRASRA_LA_IMAGEN_DE_BARRAS_ROJAS)
+![Top Hotspots](Top10SeismicHotspots.png)
 
 ### B. Structural Vulnerability (Depth Analysis)
 Almost all seismic activity is shallow, which directly impacts surface infrastructure and urban safety.
